@@ -11,4 +11,4 @@
 
 ### Component Structure 
 
-## Root = App > {Form, {TodoList} > Todo } 
+#### Root = App > {Form, {TodoList} > Todo } 
